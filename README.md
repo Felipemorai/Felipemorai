@@ -11,4 +11,4 @@ _ 💻 Developer Front-end Junior.👨‍💻
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-da-silva-morais-8b351820a/)
 ](https://www.linkedin.com/in/luiz-felipe-da-silva-morais-8b351820a/)[
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luizfelipemorais88/)
-]
+](https://www.instagram.com/luizfelipemorais88/)
