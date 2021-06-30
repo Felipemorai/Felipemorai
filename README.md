@@ -3,7 +3,8 @@ My name is Luiz Felipe 🏳️‍🌈, I'm from Brazil :house:  I'm self-taught,
 
 #### About me:
 _ :city_sunrise: From CE living in Várzea Alegre :house:
-_ 💻 Developer Front-end Junior.👨‍💻
+
+_ 💻 Developer Front-end Junior 👨‍💻
 
 #### Reach me out: 👇🏻
 
