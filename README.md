@@ -1,10 +1,12 @@
 # Hey  :wave: 
-My name is Luiz Felipe 🏳️‍🌈, I'm from Brazil :house:  I'm self-taught, and I'm focused on learning something new every day. At the moment I'm focused on the front-end stack, and I'm learning Html, Css, Javascript and intend to learn React, Reactnative and Typescript. I've an intermediate English. 🧑🏻👨‍💻
+My name is Luiz Felipe 🏳️‍🌈, I'm from Brazil :house:  I'm self-taught, and I'm focused on learning something new every day. At the moment I'm focused on the front-end stack, and I'm learning Html, Css, Javascript, React.js and intend to learn Reactnative and Typescript. I've an intermediate English. 🧑🏻👨‍💻
 
 #### About me:
 _ :city_sunrise: From CE living in Várzea Alegre :house:
 
 _ 💻 Developer Front-end Junior 👨‍💻
+
+_ 📧 felipemorai188@gmail.com
 
 #### Reach me out: 👇🏻
 
@@ -13,3 +15,12 @@ _ 💻 Developer Front-end Junior 👨‍💻
 ](https://www.linkedin.com/in/luiz-felipe-da-silva-morais-8b351820a/)[
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luizfelipemorais88/)
 ](https://www.instagram.com/luizfelipemorais88/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/felipemorai188@gmail.com)
+](https://mail.google.com/mail/u/0/felipemorai188@gmail.com)
+
+### Data and Stats 📈
+<div>
+  <a href="https://github.com/felipemorai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemorai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemorai&layout=compact&langs_count-16&theme=dracula" />
+</div>
