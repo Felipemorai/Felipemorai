@@ -1,5 +1,5 @@
 # Hey  :wave: 
-My name is Luiz Felipe 🏳️‍🌈, I'm from Brazil :house:  I'm self-taught, and I'm focused on learning something new every day. At the moment I'm focused on the front-end stack, and I'm learning Html, Css, Javascript, React.js and intend to learn Reactnative and Typescript. I've an intermediate English. 🧑🏻👨‍💻
+Hello my name is Luiz Felipe 🏳️‍🌈 and I am self-taught. And I've been studying programming for 1 year and I'm currently taking a course at Origamid in Web Design, UX/UI Design, HTML, CSS, JavaScript and React. And I study English for 3 years and my level is intermediate. 🧑🏻👨‍💻
 
 #### About me:
 _ :city_sunrise: From CE living in Várzea Alegre :house:
